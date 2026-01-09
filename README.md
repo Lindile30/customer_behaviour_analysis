@@ -1,6 +1,7 @@
 # customer_behaviour_analysis
 Data Analytics Project showcasing customer behaviour analysis using Python, SQL and Power BI
 
+<img width="1825" height="1053" alt="Screenshot 2026-01-09 172433" src="https://github.com/user-attachments/assets/f738d278-a915-4e0b-96a2-f2f0b7c4c03c" />
 
 📌 Overview
 
